@@ -1,2 +1,2 @@
-# java-sprint2-hw
-Second sprint homework
+# java-sprint7-hw
+Seventh sprint homework
